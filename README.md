@@ -1,3 +1,5 @@
+[![Math-Util with CI | © 2022 by Thanh-hiep-NT-0105](https://github.com/get-go-now/math-util/actions/workflows/math-util-ci.yml/badge.svg)](https://github.com/get-go-now/math-util/actions/workflows/math-util-ci.yml)
+
 # Welcom to Math-Util Repository
 
 
