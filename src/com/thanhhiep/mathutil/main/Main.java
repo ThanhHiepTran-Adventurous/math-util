@@ -26,6 +26,8 @@ public class Main {
         System.out.println("1! = 1? " + MathUtil.getFactorial(0));
         
 
+
+        System.out.println("6! = 720? " + MathUtil.getFactorial(6)); // modify by someone before again  approve
     }
 }
 
