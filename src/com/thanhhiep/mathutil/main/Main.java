@@ -26,6 +26,7 @@ public class Main {
     //aprroved
     public static void testFactorialSuccessfullCases() {
         System.out.println("0! = 1? " + MathUtil.getFactorial(0));
+        System.out.println("2! = 4? " + MathUtil.getFactorial(1));
     }
    
 
