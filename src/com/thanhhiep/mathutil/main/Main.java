@@ -20,13 +20,13 @@ public class Main {
         System.out.println("1! = 1? " + MathUtil.getFactorial(1));
         System.out.println("5! = 120? " + MathUtil.getFactorial(5));
         System.out.println("6! = 720? " + MathUtil.getFactorial(6)); // approved
-        System.out.println("7! = 5040? " + MathUtil.getFactorial(6)); // upload code from local
+        System.out.println("7! = 5040? " + MathUtil.getFactorial(6)); // approved
 
     }
     //aprroved
     public static void testFactorialSuccessfullCases() {
         System.out.println("0! = 1? " + MathUtil.getFactorial(0));
-        System.out.println("2! = 4? " + MathUtil.getFactorial(1));
+        System.out.println("2! = 4? " + MathUtil.getFactorial(1)); // approved
     }
    
 
