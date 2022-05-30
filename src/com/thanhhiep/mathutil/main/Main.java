@@ -20,6 +20,7 @@ public class Main {
         System.out.println("1! = 1? " + MathUtil.getFactorial(1));
         System.out.println("5! = 120? " + MathUtil.getFactorial(5));
         System.out.println("6! = 720? " + MathUtil.getFactorial(6)); // approved
+        System.out.println("7! = 5040? " + MathUtil.getFactorial(6)); // upload code from local
 
     }
     //aprroved
